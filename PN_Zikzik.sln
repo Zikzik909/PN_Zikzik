@@ -1,0 +1,54 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zikzik_Api", "Zikzik_Api\Zikzik_Api.csproj", "{EB9FE5B0-C8C4-4A27-B4A0-2482F229561E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zikzik_Domain", "Zikzik_Domain\Zikzik_Domain.csproj", "{6AC31B65-CDAC-4FC3-8141-C15A6A9537A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zikzik_Entiti", "Zikzik_Entiti\Zikzik_Entiti.csproj", "{BCA3805A-8773-4AB7-9F92-27B7B130D081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zikzik_WebAplications", "Zikzik_Aplications\Zikzik_WebAplications.csproj", "{3C2C8F22-DDB1-4692-80D8-C060C5A150F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zikzik_Wed_App", "Zikzik_Infrustructure\Zikzik_Wed_App.csproj", "{EA116603-415B-4942-B49E-987DB42B2A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zikzik_Infrustructure", "Zikzik_Infrustructure\Zikzik_Infrustructure.csproj", "{9765A437-C339-486D-8D24-15CFE930BA7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB9FE5B0-C8C4-4A27-B4A0-2482F229561E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9FE5B0-C8C4-4A27-B4A0-2482F229561E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9FE5B0-C8C4-4A27-B4A0-2482F229561E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9FE5B0-C8C4-4A27-B4A0-2482F229561E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC31B65-CDAC-4FC3-8141-C15A6A9537A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC31B65-CDAC-4FC3-8141-C15A6A9537A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC31B65-CDAC-4FC3-8141-C15A6A9537A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC31B65-CDAC-4FC3-8141-C15A6A9537A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA3805A-8773-4AB7-9F92-27B7B130D081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA3805A-8773-4AB7-9F92-27B7B130D081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA3805A-8773-4AB7-9F92-27B7B130D081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA3805A-8773-4AB7-9F92-27B7B130D081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2C8F22-DDB1-4692-80D8-C060C5A150F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2C8F22-DDB1-4692-80D8-C060C5A150F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2C8F22-DDB1-4692-80D8-C060C5A150F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2C8F22-DDB1-4692-80D8-C060C5A150F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA116603-415B-4942-B49E-987DB42B2A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA116603-415B-4942-B49E-987DB42B2A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA116603-415B-4942-B49E-987DB42B2A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA116603-415B-4942-B49E-987DB42B2A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9765A437-C339-486D-8D24-15CFE930BA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9765A437-C339-486D-8D24-15CFE930BA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9765A437-C339-486D-8D24-15CFE930BA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9765A437-C339-486D-8D24-15CFE930BA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FC67CC1-BA10-47E5-892A-C755E860D676}
+	EndGlobalSection
+EndGlobal

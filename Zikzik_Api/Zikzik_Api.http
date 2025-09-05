@@ -1,0 +1,6 @@
+@Zikzik_Api_HostAddress = http://localhost:5036
+
+GET {{Zikzik_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
