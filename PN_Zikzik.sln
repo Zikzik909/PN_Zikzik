@@ -10,8 +10,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zikzik_Entiti", "Zikzik_Ent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zikzik_WebAplications", "Zikzik_Aplications\Zikzik_WebAplications.csproj", "{3C2C8F22-DDB1-4692-80D8-C060C5A150F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zikzik_Wed_App", "Zikzik_Infrustructure\Zikzik_Wed_App.csproj", "{EA116603-415B-4942-B49E-987DB42B2A13}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zikzik_Infrustructure", "Zikzik_Infrustructure\Zikzik_Infrustructure.csproj", "{9765A437-C339-486D-8D24-15CFE930BA7F}"
 EndProject
 Global
@@ -36,10 +34,6 @@ Global
 		{3C2C8F22-DDB1-4692-80D8-C060C5A150F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C2C8F22-DDB1-4692-80D8-C060C5A150F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C2C8F22-DDB1-4692-80D8-C060C5A150F6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EA116603-415B-4942-B49E-987DB42B2A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EA116603-415B-4942-B49E-987DB42B2A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EA116603-415B-4942-B49E-987DB42B2A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EA116603-415B-4942-B49E-987DB42B2A13}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9765A437-C339-486D-8D24-15CFE930BA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9765A437-C339-486D-8D24-15CFE930BA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9765A437-C339-486D-8D24-15CFE930BA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
